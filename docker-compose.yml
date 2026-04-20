@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  cwt-agent:
+    build: .
+    env_file: .env
+    volumes:
+      - ./output:/app/output
+      - ./logs:/app/logs
+    command: python main.py  # add '--post' to actually post replies

@@ -1,0 +1,62 @@
+[
+  {
+    "post_id": "1c3mxyz",
+    "post_url": "https://www.reddit.com/r/Daytrading/comments/1c3mxyz/i_spend_4_hours_every_sunday_watching_youtube/",
+    "subreddit": "Daytrading",
+    "post_title": "I spend 4 hours every Sunday watching YouTube trading videos and I'm not even sure it helps",
+    "pain_summary": "User spends excessive time on trading research but doubts the ROI of that time",
+    "reply_text": "Honestly the Sunday research rabbit hole is real and I fell into it hard. What actually helped me was asking: am I consuming content or am I building a thesis? Once I started only watching traders whose calls I could track week-over-week, the signal-to-noise ratio improved massively. There are tools that aggregate consensus views across a bunch of traders too, which cuts that 4 hours down significantly. Either way — tracking accuracy of whoever you follow is the key move.",
+    "style": "empathetic, shares personal experience",
+    "relevance_score": 9,
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "post_id": "2d4nabc",
+    "post_url": "https://www.reddit.com/r/stocks/comments/2d4nabc/how_do_you_guys_filter_out_the_noise_on_fintwit/",
+    "subreddit": "stocks",
+    "post_title": "How do you guys filter out the noise on FinTwit? I follow 200 accounts and now I have no idea what to actually do",
+    "pain_summary": "User overwhelmed by conflicting social media signals, can't synthesize into action",
+    "reply_text": "200 accounts will do that to you. I cut mine down to ~15 traders with verifiable track records and stopped caring about everyone else. The other thing that helped — following someone who already does the aggregation for you. When 12 out of 15 traders you trust are saying the same thing, that's a real signal. When it's 7-8, it's noise. Volume of agreement matters more than any single take.",
+    "style": "concise and direct, no-nonsense",
+    "relevance_score": 8,
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "post_id": "3e5opqr",
+    "post_url": "https://www.reddit.com/r/investing/comments/3e5opqr/anyone_else_feel_like_they_spend_more_time/",
+    "subreddit": "investing",
+    "post_title": "Anyone else feel like they spend more time researching than actually investing? Getting analysis paralysis bad",
+    "pain_summary": "Analysis paralysis from too many conflicting inputs — user can't commit to trades",
+    "reply_text": "Classic paralysis loop — more data, less conviction. A few things that helped me: (1) pick one timeframe and stick to it, everything else is noise, (2) look for consensus rather than a single 'right' answer — if most people pointing at a setup agree on the direction, that's more confidence than any one analyst. There's actually a newsletter called CrowdWisdomTrading that does this aggregation automatically if you want to try that approach without spending hours on it yourself.",
+    "style": "thoughtful, gives real actionable advice",
+    "relevance_score": 8,
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "post_id": "4f6stuv",
+    "post_url": "https://www.reddit.com/r/Forex/comments/4f6stuv/which_forex_youtubers_do_you_actually_trust/",
+    "subreddit": "Forex",
+    "post_title": "Which forex YouTubers do you actually trust? Every time I check someone's calls they were wrong half the time",
+    "pain_summary": "User can't identify reliable signal sources — frustrated by lack of accountability",
+    "reply_text": "The accountability problem is real — most content creators never revisit their wrong calls. My filter: does this person show their actual trade history, including losses? That cuts 90% of them out immediately. Also worth paying attention to consensus — if 8 out of 10 analysts you follow are bullish on a pair and it's still ranging, that's a sign. If they're split 50/50, probably sit on your hands.",
+    "style": "slightly technical, been trading for 5 years",
+    "relevance_score": 7,
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "post_id": "5g7wxyz",
+    "post_url": "https://www.reddit.com/r/StockMarket/comments/5g7wxyz/im_a_newer_trader_and_im_completely_overwhelmed/",
+    "subreddit": "StockMarket",
+    "post_title": "I'm a newer trader and I'm completely overwhelmed by how much information there is. Where do I even start?",
+    "pain_summary": "New trader experiencing extreme information overload, no framework for filtering",
+    "reply_text": "Starting point that actually works: ignore 95% of what's out there for now. Seriously. Pick 3-5 traders with publicly verifiable track records and only follow them for 3 months. Take notes on what they get right and wrong. You'll learn faster from watching a few people deeply than from consuming everything shallowly. The goal isn't to know everything — it's to build a repeatable process. Once you have that, adding more inputs makes sense.",
+    "style": "casual Reddit user who trades part-time",
+    "relevance_score": 7,
+    "posted": false,
+    "posted_at": null
+  }
+]

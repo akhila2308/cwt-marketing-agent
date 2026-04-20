@@ -1,0 +1,35 @@
+{
+  "started_at": "2025-04-17T09:12:04.123456",
+  "finished_at": "2025-04-17T09:19:41.887654",
+  "duration_seconds": 457,
+  "agents": {
+    "research": {
+      "competitors_found": 7,
+      "cwt_facts": 10,
+      "raw_search_results": 72,
+      "pages_scraped": 5
+    },
+    "report": {
+      "saved_to": "output/competitor_report.md",
+      "word_count_approx": 1450
+    },
+    "reddit": {
+      "posts_scraped": 34,
+      "posts_targeted": 5,
+      "replies_generated": 5,
+      "replies_posted": 0,
+      "mode": "dry_run"
+    },
+    "learning_loop": {
+      "memory_items": 1,
+      "quality_score": 8,
+      "style_notes_added": 2,
+      "subreddit_notes_added": 3
+    }
+  },
+  "apify_tokens_used": {
+    "google-search-scraper": "~120 results across 8 queries",
+    "website-content-crawler": "5 pages from crowdwisdomtrading.com",
+    "reddit-scraper-lite": "34 posts across 8 subreddits"
+  }
+}

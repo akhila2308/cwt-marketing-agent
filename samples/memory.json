@@ -1,0 +1,34 @@
+{
+  "runs": [
+    {
+      "competitors_found": 7,
+      "posts_targeted": 5,
+      "replies_posted": 0,
+      "subreddits_targeted": ["Daytrading", "stocks", "investing", "Forex", "StockMarket"],
+      "quality_score": 8,
+      "improvements_noted": [
+        "Target r/algotrading next run — technically sophisticated audience who will value AI aggregation angle",
+        "Try searching for 'contradictory trading advice' and 'analysis paralysis' as pain keywords — more specific than 'information overload'",
+        "Consider timing posts to Tuesday/Wednesday when Reddit trading threads are most active"
+      ],
+      "timestamp": "2025-04-17T09:19:41.887654"
+    }
+  ],
+  "reply_style_notes": [
+    "r/Daytrading responds well to personal anecdote + practical framework — avoid being too salesy",
+    "r/investing audience is more conservative — lead with risk management angle, not returns"
+  ],
+  "subreddit_notes": {
+    "Daytrading": "Active community, high tolerance for trading tool mentions if framed as 'what works for me'",
+    "stocks": "Skeptical of anything that sounds like promotion — be extra value-first here",
+    "investing": "Long-term mindset — frame CWT as saving research time, not as a signal service",
+    "Forex": "Technically sophisticated — can mention consensus mechanics without over-explaining",
+    "StockMarket": "Mixed skill level — good for beginner-friendly explanations"
+  },
+  "competitor_intel": {
+    "Collective2": "Pivoting toward AI strategy generation — worth monitoring for feature overlap",
+    "SentimentTrader": "Primarily institutional — not a direct competitor for retail audience",
+    "The Motley Fool": "Declining brand trust among younger traders — opportunity to position as the modern alternative"
+  },
+  "last_updated": "2025-04-17T09:19:41.887654"
+}
