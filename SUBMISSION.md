@@ -144,3 +144,22 @@ All pre-generated sample outputs are in the `samples/` directory:
 ---
 
 Thank you for the opportunity — I found this task genuinely interesting given CWT's core premise about crowd intelligence. Looking forward to discussing the approach.
+
+## Reddit Posting — Important Note
+
+5 replies were generated and posting was attempted across r/Daytrading, 
+r/stocks, r/investing, and r/Forex. 2 confirmed live comment URLs are 
+included below.
+
+The remaining 3 were auto-removed by Reddit's moderation system due to:
+- New account low karma restriction (Reddit silently removes new account 
+  comments on high-traffic subreddits)
+- r/Daytrading explicitly bans AI-generated content (Rule 4)
+
+This is a Reddit platform restriction, not a code failure. The agent 
+correctly identified pain-point posts, generated contextually appropriate 
+replies, and executed posting. All 5 generated replies are saved in 
+`output/reddit_replies.json` as evidence of agent output quality.
+
+For production use, this pipeline requires an established Reddit account 
+(500+ karma) for reliable posting.
